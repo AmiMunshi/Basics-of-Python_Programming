@@ -1,4 +1,4 @@
-# Basics of Python Programming (A Collation for students/enthusiasts/ameteurs for practical Python)
+# Practical Python Programming (A collation for students/enthusiasts/ameteurs)
 Hands on programming to learn the basics of Python programming 
 Some coding tasks for self-practice 
 Covers the most fundamental and practical areas which each python programmer should be hands on with - data structures (list, strings, tuples, dictionaries etc), conditional blocks, loops, functions, files, classes and objects, numpy, pandas and matplotlib
